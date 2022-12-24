@@ -17,7 +17,7 @@ const App = () => {
     console.error(error);
   });
   return (
-    <h1 className='app'>App</h1>
+    <h1 className='app'>App esssam asskoooxmsmkxsmkxwkxmwk</h1>
   )
 }
 
