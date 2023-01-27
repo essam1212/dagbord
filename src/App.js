@@ -5,7 +5,6 @@ import List from "./pages/list/List";
 import Single from "./pages/single/Single";
 import New from "./pages/new/New";
 import {
-  BrowserRouter as Router,
   Route,
   Routes,
   Navigate
@@ -21,7 +20,6 @@ function App() {
   return (
     
     <div className={darkMode ? "app dark" : "app"}>
-        <Router basename="/dagbord">
         <Routes>
           <Route path="/">
             <Route index element={<Home />} />
@@ -42,7 +40,6 @@ function App() {
             </Route>
           </Route>
         </Routes>
-        </Router>
     </div>
   );
 }
