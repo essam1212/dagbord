@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dagbord/static/css/main.64d2892a.css",
-    "main.js": "/dagbord/static/js/main.293178d8.js",
+    "main.js": "/dagbord/static/js/main.e693a4e6.js",
     "index.html": "/dagbord/index.html",
     "main.64d2892a.css.map": "/dagbord/static/css/main.64d2892a.css.map",
-    "main.293178d8.js.map": "/dagbord/static/js/main.293178d8.js.map"
+    "main.e693a4e6.js.map": "/dagbord/static/js/main.e693a4e6.js.map"
   },
   "entrypoints": [
     "static/css/main.64d2892a.css",
-    "static/js/main.293178d8.js"
+    "static/js/main.e693a4e6.js"
   ]
 }
